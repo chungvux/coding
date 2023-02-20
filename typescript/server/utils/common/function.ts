@@ -1,0 +1,1 @@
+const randColor = (): string => '#' + Math.random().toString(16).slice(-6);
